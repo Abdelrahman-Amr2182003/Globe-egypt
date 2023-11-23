@@ -9415,3 +9415,9 @@ body :is(.careers-widgets, .job-listing-form) .gform_wrapper.gravity-theme .subm
 		fill: var(--color-light-blue)
 	}
 }
+
+
+.content-carousel-item-content p{
+
+	color: #88dbfc;
+}
